@@ -10,10 +10,9 @@ A molten, golden sun against a deep dusk. A theme born from the Icarus legend â€
 
 ```bash
 omarchy theme install https://github.com/OlgerZG/omarchy-icarus-theme.git
-omarchy theme set Icarus
 ```
 
-The repo is named `omarchy-icarus-theme`; when installed it shows up in the theme picker as **Icarus**.
+The repo is named `omarchy-icarus-theme`; when installed it shows up in the theme picker as **Icarus**. Installation applies it automatically.
 
 Or use *Install > Style > Theme* in the Omarchy menu, then pick **Icarus** under *Style > Theme* (`Super + Ctrl + Shift + Space`).
 
